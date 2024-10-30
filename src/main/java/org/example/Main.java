@@ -6,6 +6,6 @@ public class Main {
     public static void main(String[] args) {
         Examen examen = new Examen();
         examen.Ejercicio1();
-        examen.Ejercicio2();
+        //examen.Ejercicio2();
     }
 }
